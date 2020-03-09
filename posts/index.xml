@@ -20,5 +20,14 @@
       <description> 略略略 </description>
     </item>
     
+    <item>
+      <title>如何使用 GitHub Pages 预览 HTML</title>
+      <link>http://example.org/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-github-pages-%E9%A2%84%E8%A7%88-html/</link>
+      <pubDate>Mon, 09 Mar 2020 20:28:16 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-github-pages-%E9%A2%84%E8%A7%88-html/</guid>
+      <description>contentcd</description>
+    </item>
+    
   </channel>
 </rss>
